@@ -1,0 +1,16 @@
+# Ignore cache
+__pycache__/
+
+# Ignore VS Code files
+.vscode/
+*.code-workspace
+
+# Ignore venv environment folder
+[eE]nv*/
+
+# Ignore personal files
+MyConfigurations.py
+
+# Ignore output files
+output/
+
