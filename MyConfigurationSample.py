@@ -16,7 +16,7 @@ COUNTRY_CODE = 'US'
 # In the example URL, 'PLOU2XLYxmsIKpaV8h0AGE05so0fAwwfTw' is the playlist ID
 PLAYLIST_IDS = {
   "Your Playlist Name" : "Your Playlist ID",
-# "Another Playlist"   : "Another ID", # Comment out if you don't want to the script to see this playlist
+# "Another Playlist"   : "Another ID", # Comment out if you don't want the script to see this playlist
 }
 
 # Whether to display the channel name of the video uploader
