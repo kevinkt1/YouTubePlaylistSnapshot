@@ -5,8 +5,9 @@ __pycache__/
 .vscode/
 *.code-workspace
 
-# Ignore venv environment folder
+# Ignore venv environment folders
 [eE]nv*/
+YouTubePlaylistSnapshot/
 
 # Ignore personal files
 MyConfigurations.py
